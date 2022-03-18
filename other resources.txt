@@ -1,0 +1,3 @@
+font awesome - add logo
+remove-bg - remove logo background
+canva - image editting
